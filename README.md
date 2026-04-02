@@ -3,7 +3,7 @@
 💻 Futuro Desenvolvedor Back-end
 🚀 Apaixonado por Programação
 
-------SOBRE MIM--------------------------------------------------------------------------------------------------------------------------------------
+------SOBRE MIM----------------------------------------------------------------------------------------------
 
   🎓Faço bacharel em Engenharia da Computação pelo [UNASP](https://unasp.br/) <br>
   📚Aprendendo Javascript, Node.js, C#, e Banco de dados no Supabase <br>
